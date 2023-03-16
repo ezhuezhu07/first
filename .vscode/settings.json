@@ -47,5 +47,10 @@
     }
   ],
   "screencastMode.keyboardShortcutsFormat": "commandAndKeys",
-  "cSpell.words": ["vsync"]
+  "cSpell.words": ["vsync"],
+  "[dart]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    }
+  }
 }
